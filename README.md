@@ -3,7 +3,7 @@
 Software Engineering Student @ McMaster University  
 Aspiring ML & Robotics Engineer | Startup & building impactful products
 
-I am a software engineering student with a strong interest in building real-world systems at the intersection of **software, AI, and robotics**.
+I am a software engineer with a strong interest in building real-world systems at the intersection of **software, AI, and robotics**.
 
 
 ---
