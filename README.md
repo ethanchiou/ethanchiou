@@ -77,7 +77,7 @@ I am a software engineer with a strong interest in building real-world systems a
 
 ---
 
-##Current Focus
+## Current Focus
 
 - Building robotics systems with real-world applications  
 - Applying machine learning to physical systems  
@@ -86,7 +86,7 @@ I am a software engineer with a strong interest in building real-world systems a
 
 ---
 
-##GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ethanchiou&show_icons=true&theme=github_dark&hide_border=true" height="160"/>
