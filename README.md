@@ -28,8 +28,6 @@ I'm especially interested in:
 <td align="center"><img src="https://skillicons.dev/icons?i=java"/><br/>Java</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=js"/><br/>JavaScript</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=ts"/><br/>TypeScript</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=git"/><br/>Git</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=linux"/><br/>Linux</td>
 </tr>
 </table>
 </div>
@@ -63,6 +61,8 @@ I'm especially interested in:
 <td align="center">
   <img src="https://img.shields.io/badge/Autodesk%20Inventor-e2231a?style=for-the-badge"/><br/>
 </td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=git"/><br/>Git</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=linux"/><br/>Linux</td>
 </tr>
 </table>
 </div>
