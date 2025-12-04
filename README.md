@@ -41,6 +41,7 @@ I'm especially interested in:
 <tr>
 <td align="center"><img src="https://skillicons.dev/icons?i=react"/><br/>React</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=nodejs"/><br/>Node.js</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=nextjs"/><br/>Next.js</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=ros"/><br/>ROS 2</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=tailwind"/><br/>Tailwind CSS</td>
 </tr>
