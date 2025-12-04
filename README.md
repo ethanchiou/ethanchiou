@@ -54,6 +54,8 @@ I'm especially interested in:
 <div align="center">
 <table>
 <tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=git"/><br/>Git</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=linux"/><br/>Linux</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=vercel"/><br/>Vercel</td>
 <td align="center">
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge"/><br/>
@@ -61,8 +63,6 @@ I'm especially interested in:
 <td align="center">
   <img src="https://img.shields.io/badge/Autodesk%20Inventor-e2231a?style=for-the-badge"/><br/>
 </td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=git"/><br/>Git</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=linux"/><br/>Linux</td>
 </tr>
 </table>
 </div>
