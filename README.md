@@ -1,7 +1,7 @@
 # Ethan Chiou
 
 Software Engineering @McMaster University  
-Aspiring ML & Robotics Engineer | Startup & building impactful products
+Aspiring ML & Robotics Engineer | Interested in building impactful products
 
 I am a software engineer with a strong interest in building real-world systems at the intersection of **software, AI, and robotics**.
 
