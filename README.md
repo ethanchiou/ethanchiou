@@ -7,53 +7,76 @@ Aspiring Machine Learning & Robotics Engineer | Startup Enthusiast
 
 ## 👋 About Me
 
-Hi, I'm **Ethan Chiou**, a Software Engineering student at **McMaster University** with a strong interest in building real-world systems at the intersection of **software, AI, and robotics**. I enjoy working across the full technology stack — from low-level hardware and embedded systems to machine learning and scalable software applications.
+Hi, I'm **Ethan Chiou**, a Software Engineering student at **McMaster University** with a strong interest in building real-world systems at the intersection of **software, AI, and robotics**. I enjoy working across the stack — from low-level hardware and embedded systems to machine learning and scalable software systems.
 
-I'm particularly passionate about:
-- ML and Deep learning
+I'm especially interested in:
+- Machine Learning & Deep Learning
 - Robotics / Embedded Systems
 - Software Engineering & System Design
-- Startups & building projects with real world impact
-
-I’m always learning, building, and experimenting with new technologies to develop practical, impactful solutions.
+- Startups & building impactful products
 
 ---
 
 ## 💻 Languages
 
-![Python](https://img.shields.io/badge/Python-1f2937?style=for-the-badge&logo=python)
-![C++](https://img.shields.io/badge/C++-1f2937?style=for-the-badge&logo=cplusplus)
-![C](https://img.shields.io/badge/C-1f2937?style=for-the-badge&logo=c)
-![Java](https://img.shields.io/badge/Java-1f2937?style=for-the-badge&logo=openjdk)
-![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007acc?style=for-the-badge&logo=typescript)
-![Git](https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts,git,linux" />
+</p>
 
 ---
 
-## Tools & Platforms
+## ⚙ Frameworks & Libraries
 
-- Cursor  
-- Vercel  
-- Autodesk Inventor  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,ros,nodejs,tailwind" />
+</p>
+
+---
+
+## 🛠 Tools & Platforms
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vercel" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Cursor-0a0a0a?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Autodesk%20Inventor-e2231a?style=for-the-badge" />
+</p>
 
 ---
 
 ## 🤖 Hardware & Robotics
 
-- ROS 2  
-- Raspberry Pi  
-- Arduino  
-- Circuit design & soldering  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Soldering-6b7280?style=for-the-badge" />
+</p>
 
 ---
 
 ## 🚀 Current Focus
-- Building robots 
-- Learning how to utilize machine learning for real world projects
-- Developing full-stack and AI-powered applications  
 
+- Building robotics systems with real-world application
+- Applying machine learning to physical systems
+- Developing full-stack and AI-powered products
+- Exploring startup and product development
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ethanchiou&show_icons=true&theme=github_dark&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ethanchiou&theme=github-dark&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethanchiou&layout=compact&theme=github_dark&hide_border=true" height="160"/>
+</p>
 
 ---
 
