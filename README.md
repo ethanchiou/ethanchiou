@@ -1,23 +1,14 @@
 # Ethan Chiou
 
 Software Engineering Student @ McMaster University  
-Aspiring Machine Learning & Robotics Engineer | Startup Enthusiast
+Aspiring ML & Robotics Engineer | Startup & building impactful products
+
+I am a software engineering student with a strong interest in building real-world systems at the intersection of **software, AI, and robotics**.
+
 
 ---
 
-## 👋 About Me
-
-Hi, I'm **Ethan Chiou**, a Software Engineering student at **McMaster University** with a strong interest in building real-world systems at the intersection of **software, AI, and robotics**. I enjoy working across the stack — from low-level embedded systems to full-stack development and machine learning-based products.
-
-I'm especially interested in:
-- Machine Learning & Deep Learning  
-- Robotics / Embedded Systems  
-- Software Engineering & System Design  
-- Startups & building impactful products  
-
----
-
-## 💻 Languages
+##Languages
 
 <div align="center">
 <table>
@@ -34,7 +25,7 @@ I'm especially interested in:
 
 ---
 
-## ⚙ Frameworks & Libraries
+##Frameworks & Libraries
 
 <div align="center">
 <table>
@@ -50,7 +41,7 @@ I'm especially interested in:
 
 ---
 
-## 🛠 Tools & Platforms
+##Tools & Platforms
 
 <div align="center">
 <table>
@@ -70,26 +61,23 @@ I'm especially interested in:
 
 ---
 
-## 🤖 Hardware & Robotics
+##Hardware & Robotics
 
 <div align="center">
 <table>
 <tr>
 <td align="center"><img src="https://skillicons.dev/icons?i=arduino"/><br/>Arduino</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=raspberrypi"/><br/>Raspberry Pi</td>
+<td align="center"><td align="center"><img src="https://skillicons.dev/icons?i=ros"/><br/>ROS 2</td>
 <td align="center">
-  <img src="https://img.shields.io/badge/Soldering-6b7280?style=for-the-badge"/><br/>
-</td>
-<td align="center">
-  <td align="center"><img src="https://skillicons.dev/icons?i=ros"/><br/>ROS 2</td>
-</td>
+<img src="https://img.shields.io/badge/Soldering-6b7280?style=for-the-badge"/><br/>
 </tr>
 </table>
 </div>
 
 ---
 
-## 🚀 Current Focus
+##Current Focus
 
 - Building robotics systems with real-world applications  
 - Applying machine learning to physical systems  
@@ -98,7 +86,7 @@ I'm especially interested in:
 
 ---
 
-## 📊 GitHub Stats
+##GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ethanchiou&show_icons=true&theme=github_dark&hide_border=true" height="160"/>
