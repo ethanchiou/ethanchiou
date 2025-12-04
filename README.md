@@ -8,7 +8,7 @@ I am a software engineer with a strong interest in building real-world systems a
 
 ---
 
-##Languages
+## Languages
 
 <div align="center">
 <table>
@@ -25,7 +25,7 @@ I am a software engineer with a strong interest in building real-world systems a
 
 ---
 
-##Frameworks & Libraries
+## Frameworks & Libraries
 
 <div align="center">
 <table>
@@ -41,7 +41,7 @@ I am a software engineer with a strong interest in building real-world systems a
 
 ---
 
-##Tools & Platforms
+## Tools & Platforms
 
 <div align="center">
 <table>
@@ -61,7 +61,7 @@ I am a software engineer with a strong interest in building real-world systems a
 
 ---
 
-##Hardware & Robotics
+## Hardware & Robotics
 
 <div align="center">
 <table>
