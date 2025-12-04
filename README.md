@@ -58,10 +58,10 @@ I'm especially interested in:
 <tr>
 <td align="center"><img src="https://skillicons.dev/icons?i=vercel"/><br/>Vercel</td>
 <td align="center">
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge"/><br/>Cursor
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge"/><br/>
 </td>
 <td align="center">
-  <img src="https://img.shields.io/badge/Autodesk%20Inventor-e2231a?style=for-the-badge"/><br/>Autodesk Inventor
+  <img src="https://img.shields.io/badge/Autodesk%20Inventor-e2231a?style=for-the-badge"/><br/>
 </td>
 </tr>
 </table>
@@ -77,10 +77,10 @@ I'm especially interested in:
 <td align="center"><img src="https://skillicons.dev/icons?i=arduino"/><br/>Arduino</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=raspberrypi"/><br/>Raspberry Pi</td>
 <td align="center">
-  <img src="https://img.shields.io/badge/Soldering-6b7280?style=for-the-badge"/><br/>Soldering
+  <img src="https://img.shields.io/badge/Soldering-6b7280?style=for-the-badge"/><br/>
 </td>
 <td align="center">
-  <img src="https://img.shields.io/badge/ROS2-22314e?style=for-the-badge"/><br/>ROS 2
+  <td align="center"><img src="https://skillicons.dev/icons?i=ros"/><br/>ROS 2</td>
 </td>
 </tr>
 </table>
