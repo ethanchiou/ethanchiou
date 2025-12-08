@@ -69,9 +69,7 @@ I am a software engineer with a strong interest in building real-world systems a
 <td align="center"><img src="https://skillicons.dev/icons?i=arduino"/><br/>Arduino</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=raspberrypi"/><br/>Raspberry Pi</td>
 <td align="center"><td align="center"><img src="https://skillicons.dev/icons?i=ros"/><br/>ROS 2</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Soldering-6b7280?style=for-the-badge"/><br/>
-</tr>
+<td align="center"><img src="https://img.shields.io/badge/Soldering-6b7280?style=for-the-badge"/><br/></tr>
 </table>
 </div>
 
