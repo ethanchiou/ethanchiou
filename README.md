@@ -86,18 +86,6 @@ I am a software engineer with a strong interest in building real-world systems a
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ethanchiou&show_icons=true&theme=github_dark&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ethanchiou&theme=github-dark&hide_border=true" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethanchiou&layout=compact&theme=github_dark&hide_border=true" height="160"/>
-</p>
-
----
 
 ## 📫 Connect With Me
 
