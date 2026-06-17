@@ -1,10 +1,11 @@
 # Ethan Chiou
 
-Software Engineering @McMaster University  
+Software Engineering @McMaster University 
+Systems Engineering @ WSP (Rail & Transit)
+
 Interested in building impactful products
 
-I am a software engineer with a strong interest in building real-world systems at the intersection of **software, AI, and robotics**.
-
+I am a software engineer passionate about building real-world systems that leverage **software, AI, and automation** to solve complex problems.
 
 ---
 
