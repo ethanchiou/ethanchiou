@@ -5,6 +5,7 @@ Software Engineering @McMaster University
 
 Systems Engineering @ WSP (Rail & Transit)
 
+
 Interested in building impactful products
 
 I am a software engineer passionate about building real-world systems that leverage **software, AI, and automation** to solve complex problems.
