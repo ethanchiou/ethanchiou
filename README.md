@@ -1,6 +1,8 @@
 # Ethan Chiou
 
-Software Engineering @McMaster University \n
+Software Engineering @McMaster University
+
+
 Systems Engineering @ WSP (Rail & Transit)
 
 Interested in building impactful products
